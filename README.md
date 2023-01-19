@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="./assets/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href=""><img src="./assets/logo.png" alt="logo" width="200"></a>
   <br>
-  Markdownify
+  NCoder0
   <br>
 </h1>
 
